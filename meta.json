@@ -1,0 +1,29 @@
+{
+  "repo": "splice-sounds-premium-samples",
+  "product": "Splice Sounds Premium Samples",
+  "kind": "audio",
+  "install_type": "nexpath",
+  "install_url": "https://splice.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "audio",
+  "topics": [
+    "splice",
+    "sample-library",
+    "music-samples",
+    "beat-making",
+    "loop-library",
+    "producer-tools",
+    "sound-pack",
+    "music-production",
+    "splice-setup-failed-fix",
+    "how-to-install-splice",
+    "splice-windows",
+    "audio-tools",
+    "windows-tools",
+    "music-utility"
+  ],
+  "stars_cache": 20,
+  "nexpath_slug": "splice",
+  "nexpath_app_name": "Splice Sounds"
+}
